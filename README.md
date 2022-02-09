@@ -12,7 +12,7 @@ RolePlus is the core plugin used by all the Tesla IT Studios SCP:SL servers, and
 
 **CR-M (CustomRoles-Module)** allows us to add new roles and SCPs, including models and animations.
 
-**CI-M(CustomItems-Module)** allows us to add new items and weapons, including models and animations.
+**CI-M (CustomItems-Module)** allows us to add new items and weapons, including models and animations.
 
 **CG-M (CustomGamemodes-Module)** allows us to add new events and gamemodes relying on base-game and EXILED features.
 
