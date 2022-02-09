@@ -2,43 +2,37 @@
   <img src="https://cdn.discordapp.com/attachments/700666264791547925/925703103813128222/RolePlus.png" />
 </p>
 
-<h1 align="center">RolePlus - Community</align>
+<h1 align="center">RolePlus - Core<br>Addressable Server Suggestions<br>Common Vulnerabilities and Exposures</h1></align>
 
+RolePlus is the core plugin used by all the Tesla IT Studios SCP:SL servers, and it introduces a lot of modifications.
+<br>Almost all the base-game features are suppressed and/or deprecated, in fact, RolePlus overrides all those features' behavior, allowing us to easily implement modifications and make them compatible with the base-game code without having to worry about conflicts.
+<br>It consists of multiple modules and is purpose-built to allow us to introduce new features following a valid, orderly and long-term sustainable workflow.
 
-### Founder
+## Modules
 
-- NaoUnderscore
+**CR-M (CustomRoles-Module)** allows us to add new roles and SCPs, including models and animations.
 
-### Owners & Directors
+**CI-M(CustomItems-Module)** allows us to add new items and weapons, including models and animations.
 
-- Monald
-- Frederick
-- SmusiJarvis
-- Gattodeltombino
+**CG-M (CustomGamemodes-Module)** allows us to add new events and gamemodes relying on base-game and EXILED features.
 
-# International Version
+**EG-M (EndemicGamemodes-Module)** allows us to add new events and gamemodes suppressing all the base-game and EXILED features and their behavior, in order to extend and alter the **RolePlus CG** module's behavior and make it more complex.
 
-## Do you want to make a suggestion or report a bug?
-You can make a suggestion including a feature you'd like to see on RolePlus.
-<br>You can also report a bug describing all the steps to reproduce it.
+**CC-M (CustomControllers-Module)** allows us to handle and override base-game controllers' behavior intended to be used with specific roles and/or items, especially for SCPs.
 
-## How does it work?
-Open an issue on this repository to make a suggestion or report a bug.
-<br>Include more details as much as possible, they will be needed to evaluate the suggestion or the bug report and develop a solid workflow to implement the feature or the fix. <br>Including more details will also increase the priority of the issue, leading to a major probability to escalate the issue directly to the development team, which will implement a solution as soon as possible.
+**ACM-M (AdditionalContentManager-Module)** which is the module that allows us to heavily mod the gameplay, including maps, models and audio clips. ACM handles everything that is not handled by other modules.
+
+## How do suggestions work?
+You can make a suggestion about a feature you'd like to see on RolePlus, or also report a bug describing all the steps to reproduce it in the most detailed way as well as the suggestion.
+<br>To make the actual suggestion or report a bug, open an issue and wait for it to be reviewed.
+<br>Include as much detail as possible, in order to evaluate the suggestion or the bug report and develop a solid workflow to implement the solution.
+<br>Including more detail will also affect the priority of the issue, leading to a major probability to escalate the issue directly to the development team, which will implement a solution as soon as possible.
 
 ## How do I know if a suggestions has been accepted?
 All the suggestions and bug reports will be updated every time we're gonna do modifications related to them.
 If we add a new feature, we're gonna link it to the relative issue, and it will be closed when the new version which includes the requested feature or fix is released.
 
-# Italian Version
-## Vuoi dare un suggerimento o segnalare un bug?
-Puoi suggerire una feature che vorresti vedere su RolePlus.
-<br>Puoi anche segnalare un bug descrivendo tutti i passaggi per riprodurlo.
-
-## Come funziona?
-Apri un issue su questo repository per suggerire una nuova feature o segnalare un bug.
-<br>Includi più dettagli possibili, saranno necessari per valutare il suggerimento o la segnalazione di un bug e sviluppare un solido workflow per implementare la feature o il fix. <br>Includere maggiori dettagli aumenterà anche la priorità della richiesta, portando a una maggiore probabilità di inoltrare il problema direttamente al team di sviluppo, che implementerà una soluzione il prima possibile.
-
-## Come faccio a sapere se un suggerimento è stato accettato?
-Lo stato di tutti i suggerimenti e le segnalazioni di bug verranno aggiornati ogni volta che verranno apportate modifiche ad essi correlate.
-Se aggiungiamo una nuova feature, la collegheremo al relativo problema e verrà chiusa quando verrà rilasciata la nuova versione che include la feature o il fix richiesto.
+## How can I contribute to the development?
+Your suggestions and bug reports will help us to improve RolePlus and all its modules in order to keep adding new features.
+<br>The feedback should be always positive, and we'd like to know and assist you if you're experiencing issues during the games.
+<br>You can also contribute joining our team if you think you've the experience and the knowledge to understand and improve our work.
