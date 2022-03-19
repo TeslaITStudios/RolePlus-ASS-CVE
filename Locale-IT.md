@@ -22,6 +22,9 @@ RolePlus è il plugin principale utilizzato da tutti i server SCP:SL di Tesla IT
 
 **ACM-M (AdditionalContentManager-Module)** ci consente di moddare pesantemente il gameplay, compresi mappa, modelli, animazioni e audio clips. ACM gestisce tutto ciò che non è o non viene gestito da i moduli elencati in precedenza.
 
+*TL;DR I moduli sono un modo più facile e rapido per comprendere come funziona RolePlus, in quanto non ha niente a che fare con il backend e la relativa struttura del codice.
+<br>Non tutti i moduli sono stati menzionati, a causa di ragioni interne, come la relativa licenza d'uso e la privacy che vogliamo mantenere per ciò che riguarda il progetto.*
+
 ## Come funzionano i suggerimenti?
 Puoi suggerire una funzionalità che vorresti vedere su RolePlus; puoi anche segnalare un bug descrivendo tutti i passaggi per riprodurlo nel modo più dettagliato possibile.
 <br>Per effettuare una richiesta per un suggerimento o segnalare un bug, apri un issue e attendi che venga esaminato.
