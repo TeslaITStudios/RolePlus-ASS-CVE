@@ -8,7 +8,7 @@ RolePlus is the core plugin used by all the Tesla IT Studios SCP:SL servers, and
 <br>Almost all the base-game features are suppressed and/or deprecated, in fact, RolePlus overrides all those features' behavior, allowing us to easily implement modifications and make them compatible with the base-game code without having to worry about conflicts.
 <br>It consists of multiple modules and is purpose-built to allow us to introduce new features following a valid, orderly and long-term sustainable workflow.
 
-## Modules
+## Modules (Public)
 
 **CR-M (CustomRoles-Module)** allows us to add new roles and SCPs, including models and animations.
 
