@@ -8,12 +8,12 @@ RolePlus is the core plugin used by all the Tesla IT Studios SCP:SL servers, and
 <br>Almost all the base-game features are suppressed and/or deprecated, in fact, RolePlus overrides all those features' behavior, allowing us to easily implement modifications and make them compatible with the base-game code without having to worry about conflicts.
 <br>It consists of multiple modules and is purpose-built to allow us to introduce new features following a valid, orderly and long-term sustainable workflow.
 
-# Translations
+# Available Translations
 
 - [Italian](https://github.com/TeslaITStudios/RolePlus-ASS-CVE/blob/main/Locale-IT.md)
 - [English](https://github.com/TeslaITStudios/RolePlus-ASS-CVE/blob/main/Locale-EN.md)
 
-## Modules
+## Modules (Public)
 
 **CR-M (CustomRoles-Module)** allows us to add new roles and SCPs, including models and animations.
 
@@ -26,6 +26,8 @@ RolePlus is the core plugin used by all the Tesla IT Studios SCP:SL servers, and
 **CC-M (CustomControllers-Module)** allows us to handle and override base-game controllers' behavior intended to be used with specific roles and/or items, especially for SCPs.
 
 **ACM-M (AdditionalContentManager-Module)** which is the module that allows us to heavily mod the gameplay, including maps, models and audio clips. ACM handles everything that is not handled by other modules.
+
+*TL;DR Modules are an easier way to understand how RolePlus works and it has nothing to do with the backend code structure. Not all modules are listed above, due to internal reasons, such as the relative license and the privacy of our work.*
 
 ## How do suggestions work?
 You can make a suggestion about a feature you'd like to see on RolePlus, or also report a bug describing all the steps to reproduce it in the most detailed way as well as the suggestion.
